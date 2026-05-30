@@ -33,13 +33,18 @@
 
 <table>
   <tr align="center">
-    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/logo00.png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/logo04.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>    
     <td><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="./images/logo01.png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/logo00.png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/HTML"><img src="./images/logo02.png" width="60" height="60" alt="HTML"/><br/><sub>HTML</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/CSS"><img src="./images/logo03.png" width="60" height="60" alt="CSS"/><br/><sub>CSS</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/logo04.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>
+  </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/logo06.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>    
     <td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./images/logo05.png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/logo06.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/logo07.png" width="60" height="60" alt="C"/><br/><sub>C</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./images/logo08.png" width="60" height="60" alt="C++"/><br/><sub>C++</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="./images/logo09.png" width="60" height="60" alt="C#"/><br/><sub>C#</sub></a></td>
