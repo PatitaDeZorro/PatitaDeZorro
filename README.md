@@ -2,7 +2,7 @@
 
   <!-- Typing SVG animado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hola%2C+soy+Edson+J.+Avila+%F0%9F%91%8B;Fullstack+Dev+en+construcci%C3%B3n+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hola%2C+soy+Edson+J.+Avila+%F0%9F%91%8B;Fullstack+Dev+en+construcci%C3%B3n+%F0%9F%9A%80;Fluyo+con+los+cambios+%F0%9F%8C%8A" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -75,6 +75,61 @@ aprendiendo_siempre: true
 
 ---
 
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=PatitaDeZorro&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📌 Proyectos destacados
+
+<div align="center">
+
+  <!-- ⚠️ Reemplaza NOMBRE_REPO_1 y NOMBRE_REPO_2 con los nombres reales de tus repos -->
+  <a href="https://github.com/PatitaDeZorro/NOMBRE_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="Repo 1"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/PatitaDeZorro/NOMBRE_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" alt="Repo 2"/>
+  </a>
+
+</div>
+
+---
+
+## 🏅 Certificaciones
+
+<div align="center">
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+<a href="https://www.credly.com/users/patitadezorro">
+  <img src="https://img.shields.io/badge/Ver_todas_mis_certificaciones-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+</a>
+
+</div>
+
+---
+
+## 🎵 Now Playing
+
+<div align="center">
+
+  <!-- ⚠️ Reemplaza TU_SPOTIFY_UID con tu UID de Spotify (ver instrucciones abajo) -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=1f6feb&bar_color_cover=true" alt="Spotify Now Playing"/>
+  </a>
+
+</div>
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -97,6 +152,8 @@ aprendiendo_siempre: true
 
   [![Instagram](https://img.shields.io/badge/@PatitaDeZorroDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PatitaDeZorroDev)
   [![GitHub](https://img.shields.io/badge/PatitaDeZorro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatitaDeZorro)
+  [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/patitadezorro)
+  [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/TU_SPOTIFY_UID)
 
 </div>
 
