@@ -19,39 +19,82 @@
 <br/>
 
 <!-- ====== SOBRE MÍ ====== -->
-## <img src="https://img.shields.io/badge/-7F77DD?style=flat-square&logo=github&logoColor=white" height="20"/> Sobre mí
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Sobre%20mí&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Sobre mí"/>
+</div>
 
-- 🎓 Graduado como **Técnico en Telecomunicaciones** por el Instituto Politécnico Nacional
+<div align="center">
+<table>
+<tr><td width="100%" align="justify">
+
+Soy un desarrollador en formación con bases sólidas en programación y una fuerte motivación por aprender. Manejo los fundamentos de la lógica de programación, estructuras de datos y algoritmos, y los aplico en proyectos prácticos con los que sigo creciendo. Me siento cómodo trabajando tanto en frontend como en backend, y disfruto el proceso de entender cómo funcionan las cosas a fondo antes de construirlas.
+
 - 🎓 Estudiante de **Ingeniería de Software** en la UACM
+- 🎓 Graduado como **Técnico en Telecomunicaciones** por el IPN
+
+</td></tr>
+</table>
+</div>
 
 <br/>
 
 <!-- ====== SKILLS ====== -->
-## 🛠️ Skills y tecnologías
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Skills%20y%20tecnologías&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Skills y tecnologías"/>
+</div>
 
-> **Lenguajes de programación**
+<!-- ====== LENGUAJES DE PROGRAMACIÓN ====== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Lenguajes%20de%20programación&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Lenguajes de programación"/>
+</div>
+
+<div align="center">
 
 <table>
   <tr align="center">
-    <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/logo04.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>    
-    <td><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="./images/logo01.png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/logo00.png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/HTML"><img src="./images/logo02.png" width="60" height="60" alt="HTML"/><br/><sub>HTML</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/CSS"><img src="./images/logo03.png" width="60" height="60" alt="CSS"/><br/><sub>CSS</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/SQL.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>    
+    <td><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="./images/TypeScript.png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/JavaScript.png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/HTML"><img src="./images/HTML.png" width="60" height="60" alt="HTML"/><br/><sub>HTML</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/CSS"><img src="./images/CSS.png" width="60" height="60" alt="CSS"/><br/><sub>CSS</sub></a></td>
   </tr>
 </table>
 
 <table>
   <tr align="center">
-    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/logo06.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>    
-    <td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./images/logo05.png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/logo07.png" width="60" height="60" alt="C"/><br/><sub>C</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./images/logo08.png" width="60" height="60" alt="C++"/><br/><sub>C++</sub></a></td>
-    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="./images/logo09.png" width="60" height="60" alt="C#"/><br/><sub>C#</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/Java.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>    
+    <td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./images/Python.png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/C.png" width="60" height="60" alt="C"/><br/><sub>C</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./images/CPP.png" width="60" height="60" alt="C++"/><br/><sub>C++</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="./images/CSharp.png" width="60" height="60" alt="C#"/><br/><sub>C#</sub></a></td>
   </tr>
 </table>
 
-> **Frameworks y librerías**
+<!-- ====== BASES DE DATOS ====== -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Bases%20de%20datos&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Bases de datos"/>
+</div>
+
+<div align="center">
+
+<table>
+  <tr align="center">
+    <td><a href="https://www.postgresql.org"><img src="./images/PostgreSQL.png" width="60" height="60" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></a></td>
+    <td><a href="https://www.mysql.com"><img src="./images/MySQL.png" width="60" height="60" alt="MySQL"/><br/><sub>MySQL</sub></a></td>
+    <td><a href="https://www.sqlite.org"><img src="./images/SQLite.png" width="60" height="60" alt="SQLite"/><br/><sub>SQLite</sub></a></td>
+    <td><a href="https://www.mongodb.com"><img src="./images/MongoDB.png" width="35" height="60" alt="MongoDB"/><br/><sub>MongoDB</sub></a></td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Frameworks%20y%20librerías&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Lenguajes de programación"/>
+</div>
+
+<div align="center">
 
 <table>
   <tr align="center">
@@ -62,7 +105,13 @@
   </tr>
 </table>
 
-> **Testing y QA**
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=40&text=Testing%20y%20QA&fontSize=18&fontColor=ffffff&fontAlignY=52" width="400" alt="Testing y QA"/>
+</div>
+
+<div align="center">
 
 <table>
   <tr align="center">
@@ -75,7 +124,13 @@
   </tr>
 </table>
 
-> **Herramientas y entornos**
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=40&text=Herramientas%20y%20entornos&fontSize=18&fontColor=ffffff&fontAlignY=52" width="400" alt="Herramientas y entornos"/>
+</div>
+
+<div align="center">
 
 <table>
   <tr align="center">
@@ -86,8 +141,12 @@
   </tr>
 </table>
 
+</div>
+
 <!-- ====== CERTIFICACIONES ====== -->
-## 🏅 Certificaciones
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Certificaciones&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Certificaciones"/>
+</div>
 
 <div align="center">
 
@@ -95,7 +154,7 @@
 <!--END_SECTION:badges-->
 
 <a href="https://www.credly.com/users/patitadezorro">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=60&text=Ver%20todas%20mis%20certificaciones%20en%20Credly&fontSize=22&fontColor=ffffff&fontAlignY=55" alt="Credly" width="680"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Ver%20mis%20certificaciones%20en%20Credly&fontSize=35&fontColor=ffffff&fontAlignY=55" alt="Credly" width="70%"/>
 </a>
 
 </div>
@@ -103,7 +162,9 @@
 <br/>
 
 <!-- ====== PROYECTOS ====== -->
-## 📌 Proyectos destacados
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Proyectos%20destacados&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Proyectos destacados"/>
+</div>
 
 <div align="center">
 
@@ -120,7 +181,9 @@
 <br/>
 
 <!-- ====== STATS ====== -->
-## 📊 Estadísticas de GitHub
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Estadísticas%20de%20GitHub&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Estadísticas de GitHub"/>
+</div>
 
 <div align="center">
 
@@ -133,29 +196,17 @@
 
 </div>
 
-<br/>
-
-<!-- ====== NOW PLAYING ====== -->
-## 🎵 Now Playing
-
-<div align="center">
-  <!-- ⚠️ Reemplaza TU_SPOTIFY_UID con tu UID de Spotify -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_SPOTIFY_UID&cover_image=true&theme=novatorem&bar_color=7F77DD&bar_color_cover=true" alt="Spotify Now Playing"/>
-  </a>
-</div>
-
-<br/>
 
 <!-- ====== CONTACTO ====== -->
-## 🌐 Encuéntrame
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Encuéntrame&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Encuéntrame"/>
+</div>
 
 <div align="center">
 
   <a href="https://github.com/PatitaDeZorro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://instagram.com/PatitaDeZorroDev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.credly.com/users/patitadezorro"><img src="https://img.shields.io/badge/Credly-7F77DD?style=for-the-badge&logo=credly&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/TU_SPOTIFY_UID"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
 </div>
 
