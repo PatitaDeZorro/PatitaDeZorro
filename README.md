@@ -1,65 +1,109 @@
-# Hola, soy Edson 👋
+<div align="center">
 
-> Fullstack Dev en construcción · UACM Ing. de Software · fluyo con los cambios 🌊
+  <!-- Typing SVG animado -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hola%2C+soy+Edson+J.+Avila+%F0%9F%91%8B;Fullstack+Dev+en+construcci%C3%B3n+%F0%9F%9A%80;Fluyo+con+los+cambios+%F0%9F%8C%8A" alt="Typing SVG" />
+  </a>
 
-![UACM](https://img.shields.io/badge/🎓-UACM-1f6feb?style=flat-square)
-![Fullstack](https://img.shields.io/badge/⚡-Fullstack-1f6feb?style=flat-square)
-![PatitaDeZorro](https://img.shields.io/badge/🦊-PatitaDeZorro-1f6feb?style=flat-square)
-![CDMX](https://img.shields.io/badge/📍-CDMX-1f6feb?style=flat-square)
+  <br/>
+
+  <!-- Badges de perfil -->
+  ![UACM](https://img.shields.io/badge/🎓_UACM-Ing._de_Software-1f6feb?style=for-the-badge)
+  ![Fullstack](https://img.shields.io/badge/⚡_Fullstack-Developer-0d1117?style=for-the-badge)
+  ![CDMX](https://img.shields.io/badge/📍_CDMX-México-e34c26?style=for-the-badge)
+
+</div>
 
 ---
 
-## Sobre mí
+## 🦊 Sobre mí
+
+```yaml
+nombre: Edson J. Avila
+alias: PatitaDeZorro
+universidad: UACM — Ingeniería de Software
+enfoque: Fullstack Development
+filosofía: "El código más limpio es el que aún no escribiste"
+aprendiendo_siempre: true
+```
 
 - 🎓 Estudiante de **Ingeniería de Software** en la UACM
 - 🔭 Explorando el mundo **Fullstack**: del backend al frontend y viceversa
 - 🌱 Me apasiona aprender y fluir con la corriente ante los cambios de la tech
 - 💡 Creyente de que el código más limpio es el que aún no escribiste
-- 📸 También me encuentras en [@PatitaDeZorroDev](https://instagram.com/PatitaDeZorroDev)
 
 ---
 
-## Tecnologías
+## 🛠️ Tecnologías
 
-### Lenguajes
-[![Java](https://img.shields.io/badge/Java-E8F0FE?style=for-the-badge&logo=java&logoColor=4285F4)](https://www.java.com)
-[![Python](https://img.shields.io/badge/Python-FFF8E1?style=for-the-badge&logo=python&logoColor=FFB300)](https://www.python.org)
-[![C](https://img.shields.io/badge/C-F3E5F5?style=for-the-badge&logo=c&logoColor=9C27B0)](https://www.iso.org/standard/74528.html)
-[![C++](https://img.shields.io/badge/C++-EDE7F6?style=for-the-badge&logo=cplusplus&logoColor=673AB7)](https://isocpp.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FFFDE7?style=for-the-badge&logo=javascript&logoColor=F9A825)](https://developer.mozilla.org/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-E3F2FD?style=for-the-badge&logo=typescript&logoColor=1565C0)](https://www.typescriptlang.org)
-[![SQL](https://img.shields.io/badge/SQL-E8F5E9?style=for-the-badge&logo=mysql&logoColor=2E7D32)](https://www.mysql.com)
+### 💬 Lenguajes
+<p>
+  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"/></a>
+  <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C"/></a>
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript"/></a>
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" title="SQL"/></a>
+</p>
 
-### Frontend & Backend
-[![React](https://img.shields.io/badge/React-E1F5FE?style=for-the-badge&logo=react&logoColor=0288D1)](https://react.dev)
-[![Node.js](https://img.shields.io/badge/Node.js-E8F5E9?style=for-the-badge&logo=nodedotjs&logoColor=388E3C)](https://nodejs.org)
-[![Flask](https://img.shields.io/badge/Flask-ECEFF1?style=for-the-badge&logo=flask&logoColor=546E7A)](https://flask.palletsprojects.com)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-FBE9E7?style=for-the-badge&logo=fastapi&logoColor=E64A19)](https://restfulapi.net)
+### 🌐 Frontend & Backend
+<p>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/></a>
+  <a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask"/></a>
+  <a href="https://restfulapi.net"><img src="https://img.shields.io/badge/REST_APIs-E64A19?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" title="REST APIs"/></a>
+</p>
 
-### Testing
-[![pytest](https://img.shields.io/badge/pytest-F3E5F5?style=for-the-badge&logo=pytest&logoColor=7B1FA2)](https://pytest.org)
-[![coverage.py](https://img.shields.io/badge/coverage.py-E8EAF6?style=for-the-badge&logo=python&logoColor=3949AB)](https://coverage.readthedocs.io)
-[![JUnit](https://img.shields.io/badge/JUnit-FFEBEE?style=for-the-badge&logo=junit5&logoColor=C62828)](https://junit.org)
-[![Jest](https://img.shields.io/badge/Jest-FCE4EC?style=for-the-badge&logo=jest&logoColor=AD1457)](https://jestjs.io)
-[![Postman](https://img.shields.io/badge/Postman-FFF3E0?style=for-the-badge&logo=postman&logoColor=E65100)](https://www.postman.com)
-[![Selenium](https://img.shields.io/badge/Selenium-E8F5E9?style=for-the-badge&logo=selenium&logoColor=43A047)](https://www.selenium.dev)
+### 🧪 Testing
+<p>
+  <a href="https://pytest.org"><img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" title="pytest"/></a>
+  <a href="https://coverage.readthedocs.io"><img src="https://img.shields.io/badge/coverage.py-3949AB?style=for-the-badge&logo=python&logoColor=white" alt="coverage.py" title="coverage.py"/></a>
+  <a href="https://junit.org"><img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" title="JUnit"/></a>
+  <a href="https://jestjs.io"><img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest"/></a>
+  <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/></a>
+  <a href="https://www.selenium.dev"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium"/></a>
+</p>
 
-### Herramientas & Entornos
-[![Git](https://img.shields.io/badge/Git-FBE9E7?style=for-the-badge&logo=git&logoColor=BF360C)](https://git-scm.com)
-[![Docker](https://img.shields.io/badge/Docker-E3F2FD?style=for-the-badge&logo=docker&logoColor=1565C0)](https://www.docker.com)
-[![Linux · Ubuntu](https://img.shields.io/badge/Linux_·_Ubuntu-FFF8E1?style=for-the-badge&logo=ubuntu&logoColor=F57F17)](https://ubuntu.com)
-[![Windows](https://img.shields.io/badge/Windows-E3F2FD?style=for-the-badge&logo=windows&logoColor=1976D2)](https://www.microsoft.com/windows)
+### ⚙️ Herramientas & Entornos
+<p>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></a>
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></a>
+  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=linux" alt="Linux · Ubuntu" title="Linux · Ubuntu"/></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows"/></a>
+</p>
 
 ---
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatitaDeZorro&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatitaDeZorro&layout=compact&theme=default&hide_border=true)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PatitaDeZorro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatitaDeZorro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&text_color=c9d1d9" height="180" alt="Top Langs"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=PatitaDeZorro&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## Encuéntrame
+## 🌐 Encuéntrame
 
-[![Instagram](https://img.shields.io/badge/@PatitaDeZorroDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PatitaDeZorroDev)
-[![GitHub](https://img.shields.io/badge/PatitaDeZorro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatitaDeZorro)
+<div align="center">
+
+  [![Instagram](https://img.shields.io/badge/@PatitaDeZorroDev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/PatitaDeZorroDev)
+  [![GitHub](https://img.shields.io/badge/PatitaDeZorro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PatitaDeZorro)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PatitaDeZorro&color=1f6feb&style=flat-square&label=Visitas+al+perfil" alt="Profile Views"/>
+  <br/><br/>
+  <i>💡 "Me apasiona el aprendizaje y fluyo con la corriente ante los cambios en la tecnología"</i>
+</div>
