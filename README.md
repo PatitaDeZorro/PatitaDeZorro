@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=200&section=header&text=Edson%20J.%20Avila&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Dev%20%C2%B7%20UACM%20Ing.%20de%20Software%20%C2%B7%20%40PatitaDeZorro&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack+en+formaci%C3%B3n+%F0%9F%9A%80;Me+apasiona+aprender+y+fluir+con+los+cambios;El+c%C3%B3digo+m%C3%A1s+limpio+es+el+que+a%C3%BAn+no+escribiste" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack+en+formaci%C3%B3n+%F0%9F%9A%80;Me+apasiona+aprender+y+fluir+con+los+cambios" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,20 +21,8 @@
 <!-- ====== SOBRE MÍ ====== -->
 ## <img src="https://img.shields.io/badge/-7F77DD?style=flat-square&logo=github&logoColor=white" height="20"/> Sobre mí
 
-```yaml
-nombre:      Edson J. Avila
-alias:       PatitaDeZorro
-universidad: UACM — Ingeniería de Software
-enfoque:     Fullstack Development
-filosofía:   "El código más limpio es el que aún no escribiste"
-aprendiendo_siempre: true
-```
-
+- 🎓 Graduado como **Técnico en Telecomunicaciones** por el Instituto Politécnico Nacional
 - 🎓 Estudiante de **Ingeniería de Software** en la UACM
-- 🔭 Explorando el mundo **Fullstack**: del backend al frontend y viceversa
-- 🌱 Me apasiona aprender y fluir con la corriente ante los cambios de la tech
-- 💡 Creyente de que el código más limpio es el que aún no escribiste
-- 📸 También me encuentras en [@PatitaDeZorroDev](https://instagram.com/PatitaDeZorroDev)
 
 <br/>
 
@@ -45,15 +33,16 @@ aprendiendo_siempre: true
 
 <table>
   <tr align="center">
-    <td><a href="https://www.java.com"><img src="./images/logo01.png" width="48" alt="Java"/><br/><sub>Java</sub></a></td>
-    <td><a href="https://www.python.org"><img src="./images/logo02.png" width="48" alt="Python"/><br/><sub>Python</sub></a></td>
-    <td><a href="https://www.iso.org/standard/74528.html"><img src="./images/logo03.png" width="48" alt="C"/><br/><sub>C</sub></a></td>
-    <td><a href="https://isocpp.org"><img src="./images/logo04.png" width="48" alt="C++"/><br/><sub>C++</sub></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./images/logo05.png" width="48" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
-    <td><a href="https://www.typescriptlang.org"><img src="./images/logo06.png" width="48" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
-    <td><a href="https://www.mysql.com"><img src="./images/logo07.png" width="48" alt="SQL"/><br/><sub>SQL</sub></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./images/logo08.png" width="48" alt="HTML"/><br/><sub>HTML</sub></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./images/logo09.png" width="48" alt="CSS"/><br/><sub>CSS</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/JavaScript"><img src="./images/logo00.png" width="60" height="60" alt="JavaScript"/><br/><sub>JavaScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="./images/logo01.png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/HTML"><img src="./images/logo02.png" width="60" height="60" alt="HTML"/><br/><sub>HTML</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/CSS"><img src="./images/logo03.png" width="60" height="60" alt="CSS"/><br/><sub>CSS</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/logo04.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./images/logo05.png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/logo06.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="./images/logo07.png" width="60" height="60" alt="C"/><br/><sub>C</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="./images/logo08.png" width="60" height="60" alt="C++"/><br/><sub>C++</sub></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="./images/logo09.png" width="60" height="60" alt="C#"/><br/><sub>C#</sub></a></td>
   </tr>
 </table>
 
@@ -91,61 +80,6 @@ aprendiendo_siempre: true
     <td><a href="https://www.microsoft.com/windows"><img src="./images/logo23.png" width="48" alt="Windows"/><br/><sub>Windows</sub></a></td>
   </tr>
 </table>
-
-<br/>
-
-<!-- ====== DOMINIOS ====== -->
-## 🌐 Dominios de tecnología
-
-<table>
-  <tr>
-    <td width="50%">
-      🖥️ <b>Frontend development</b><br/>
-      <sub>Interfaces con React, estado y consumo de APIs</sub><br/>
-      <img src="https://geps.dev/progress/45?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-    <td width="50%">
-      ⚙️ <b>Backend development</b><br/>
-      <sub>APIs con Node.js, Flask y cliente-servidor</sub><br/>
-      <img src="https://geps.dev/progress/40?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      🗄️ <b>Bases de datos</b><br/>
-      <sub>Modelado relacional, SQL y esquemas</sub><br/>
-      <img src="https://geps.dev/progress/50?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-    <td width="50%">
-      🧪 <b>Testing &amp; QA</b><br/>
-      <sub>Pruebas unitarias, integración y E2E</sub><br/>
-      <img src="https://geps.dev/progress/55?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      🐧 <b>Sistemas y SO</b><br/>
-      <sub>Linux Ubuntu, bash y entornos de dev</sub><br/>
-      <img src="https://geps.dev/progress/50?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-    <td width="50%">
-      🐳 <b>DevOps básico</b><br/>
-      <sub>Git, Docker e integración continua</sub><br/>
-      <img src="https://geps.dev/progress/35?dangerColor=7F77DD&warningColor=7F77DD&successColor=534AB7" width="180"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ====== TROFEOS ====== -->
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PatitaDeZorro&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 <!-- ====== CERTIFICACIONES ====== -->
 ## 🏅 Certificaciones
