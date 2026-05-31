@@ -172,8 +172,6 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 </div>
 
 <div align="center">
-  <a href="https://www.credly.com/users/patitadezorro"><img src="https://img.shields.io/badge/Credly-50B648?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="https://github.com/PatitaDeZorro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/PatitaDeZorroDev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
 
