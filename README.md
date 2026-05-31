@@ -43,7 +43,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <!-- ---------- Lenguajes de programación ---------- -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Lenguajes%20de%20programación&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Lenguajes de programación"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F77DD,100:534AB7&height=70&text=Lenguajes%20de%20programación&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Lenguajes de programación"/>
 </div>
 
 <div align="center">
@@ -72,7 +72,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <!-- ---------- Bases de datos ---------- -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Bases%20de%20datos&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Bases de datos"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F77DD,100:534AB7&height=70&text=Bases%20de%20datos&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Bases de datos"/>
 </div>
 
 <div align="center">
@@ -90,7 +90,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <!-- ---------- Herramientas y Sistemas Operativos ---------- -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Herramientas%20y%20Sistemas%20operativos&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Herramientas y Sistemas operativos"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F77DD,100:534AB7&height=70&text=Herramientas%20y%20Sistemas%20operativos&fontSize=35&fontColor=ffffff&fontAlignY=52" width="70%" alt="Herramientas y Sistemas operativos"/>
 </div>
 
 <div align="center">
@@ -118,7 +118,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
   <a href="https://www.credly.com/users/patitadezorro">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F77DD,100:534AB7&height=70&text=Ver%20mis%20certificaciones%20en%20Credly&fontSize=35&fontColor=ffffff&fontAlignY=55" width="70%" alt="Credly"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7F77DD,100:534AB7&height=70&text=Ver%20mis%20certificaciones%20en%20Credly&fontSize=35&fontColor=ffffff&fontAlignY=55" width="70%" alt="Credly"/>
   </a>
 </div>
 
