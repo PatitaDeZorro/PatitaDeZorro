@@ -136,12 +136,13 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 <div align="center">
 
   <!-- Las tarjetas aparecerán automáticamente cuando los repositorios tengan código (no funcionan en repos vacíos). -->
-  <a href="https://github.com/PatitaDeZorro/RelojChecador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=RelojChecador&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="RelojChecador"/>
-  </a>
-  <a href="https://github.com/PatitaDeZorro/ControlInventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=ControlInventario&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="ControlInventario"/>
-  </a>
+<a href="https://github.com/7mo-ArquitecturaComputadoras/Proyecto01_Grayscale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7mo-ArquitecturaComputadoras&repo=Proyecto01_Grayscale&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="Proyecto01_Grayscale"/>
+</a>
+
+<a href="https://github.com/7mo-ArquitecturaComputadoras/Proyecto01_Grayscale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7mo-ArquitecturaComputadoras&repo=Proyecto01_Grayscale&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="Proyecto01_Grayscale"/>
+</a>
 
 </div>
 
