@@ -19,17 +19,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=100&section=header&text=Sobre%20mí&fontSize=30&fontColor=ffffff&fontAlignY=42&animation=fadeIn" width="100%" alt="Sobre mí"/>
 </div>
 
-<div align="center">
+<div align="justify">
   <table border="0">
     <tr>
-<td width="100%" align="justify">
 
 Soy un desarrollador en formación con bases sólidas en programación y una fuerte motivación por aprender. Manejo los fundamentos de la lógica de programación, estructuras de datos y algoritmos, y los aplico en proyectos prácticos con los que sigo creciendo. Me siento cómodo trabajando tanto en frontend como en backend, y disfruto el proceso de entender cómo funcionan las cosas a fondo antes de construirlas.
 
 - 🎓 Estudiante de **Ingeniería de Software** en la UACM
 - 🎓 Graduado como **Técnico en Telecomunicaciones** por el IPN
 
-</td>
     </tr>
   </table>
 </div>
@@ -135,12 +133,11 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
 
-  <!-- Las tarjetas aparecerán automáticamente cuando los repositorios tengan código (no funcionan en repos vacíos). -->
-  <a href="https://github.com/PatitaDeZorro/RelojChecador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=RelojChecador&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="RelojChecador"/>
-  </a>
   <a href="https://github.com/PatitaDeZorro/ControlInventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=ControlInventario&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="ControlInventario"/>
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/ControlInventario" width="49%" alt="ControlInventario"/>
+  </a>
+  <a href="https://github.com/PatitaDeZorro/RelojChecador">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/RelojChecador" width="49%" alt="RelojChecador"/>
   </a>
 
 </div>
