@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<table>
+<table border="0">
 <tr><td width="100%" align="justify">
 
 Soy un desarrollador en formación con bases sólidas en programación y una fuerte motivación por aprender. Manejo los fundamentos de la lógica de programación, estructuras de datos y algoritmos, y los aplico en proyectos prácticos con los que sigo creciendo. Me siento cómodo trabajando tanto en frontend como en backend, y disfruto el proceso de entender cómo funcionan las cosas a fondo antes de construirlas.
@@ -42,7 +42,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr align="center">
     <td><a href="https://en.wikipedia.org/wiki/SQL"><img src="./images/SQL.png" width="60" height="60" alt="SQL"/><br/><sub>SQL</sub></a></td>    
     <td><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="./images/TypeScript.png" width="60" height="60" alt="TypeScript"/><br/><sub>TypeScript</sub></a></td>
@@ -52,7 +52,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
   </tr>
 </table>
 
-<table>
+<table border="0">
   <tr align="center">
     <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="./images/Java.png" width="60" height="60" alt="Java"/><br/><sub>Java</sub></a></td>    
     <td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="./images/Python.png" width="60" height="60" alt="Python"/><br/><sub>Python</sub></a></td>
@@ -70,7 +70,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr align="center">
     <td><a href="https://en.wikipedia.org/wiki/PostgreSQL"><img src="./images/PostgreSQL.png" width="60" height="60" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/MySQL"><img src="./images/MySQL.png" width="60" height="60" alt="MySQL"/><br/><sub>MySQL</sub></a></td>
@@ -89,7 +89,7 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
 
-<table>
+<table border="0">
   <tr align="center">
     <td><a href="https://en.wikipedia.org/wiki/Git"><img src="./images/Git.png" width="60" height="60" alt="Git"/><br/><sub>Git</sub></a></td>
     <td><a href="https://en.wikipedia.org/wiki/GitHub"><img src="./images/GitHub.png" width="60" height="60" alt="GitHub"/><br/><sub>GitHub</sub></a></td>
