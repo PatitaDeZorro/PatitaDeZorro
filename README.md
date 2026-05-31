@@ -133,12 +133,12 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 
 <div align="center">
 
-  <!-- Las tarjetas aparecerán automáticamente cuando los repositorios tengan código (no funcionan en repos vacíos). -->
+  <!-- Tarjetas OpenGraph oficiales de GitHub (no dependen de servicios externos) -->
   <a href="https://github.com/PatitaDeZorro/RelojChecador">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=RelojChecador&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="RelojChecador"/>
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/RelojChecador" width="49%" alt="RelojChecador"/>
   </a>
   <a href="https://github.com/PatitaDeZorro/ControlInventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatitaDeZorro&repo=ControlInventario&theme=algolia&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9" alt="ControlInventario"/>
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/ControlInventario" width="49%" alt="ControlInventario"/>
   </a>
 
 </div>
