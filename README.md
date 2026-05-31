@@ -134,11 +134,17 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 <div align="center">
 
   <!-- Tarjetas OpenGraph oficiales de GitHub (no dependen de servicios externos) -->
-  <a href="https://github.com/PatitaDeZorro/RelojChecador">
-    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/RelojChecador" width="49%" alt="RelojChecador"/>
+  <a href="https://github.com/PatitaDeZorro/01-Bot_de_email_y_Telegram">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/01-Bot_de_email_y_Telegram" width="49%" alt="Bot de email y Telegram"/>
   </a>
-  <a href="https://github.com/PatitaDeZorro/ControlInventario">
-    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/ControlInventario" width="49%" alt="ControlInventario"/>
+  <a href="https://github.com/PatitaDeZorro/02-Reloj_checador_con_bot_de_notificacion">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/02-Reloj_checador_con_bot_de_notificacion" width="49%" alt="Reloj checador con bot de notificación"/>
+  </a>
+  <a href="https://github.com/PatitaDeZorro/03-Control_de_inventario_con_bot_de_notificacion">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/03-Control_de_inventario_con_bot_de_notificacion" width="49%" alt="Control de inventario con bot de notificación"/>
+  </a>
+  <a href="https://github.com/PatitaDeZorro/04-Punto_de_venta_con_bot_de_notificacion">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/04-Punto_de_venta_con_bot_de_notificacion" width="49%" alt="Punto de venta con bot de notificación"/>
   </a>
 
 </div>
