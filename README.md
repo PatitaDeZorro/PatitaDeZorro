@@ -3,7 +3,7 @@
 <!-- ============================================================= -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=200&section=header&text=Edson%20J.%20Avila&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Fullstack%20Developer%20%C2%B7%20UX/UI%20Engineer%20%C2%B7%20QA%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F77DD,100:534AB7&height=200&section=header&text=Edson%20J.%20Ávila&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%C2%B7%20Fullstack%20Developer%20%C2%B7%20UX/UI%20Engineer%20%C2%B7%20QA%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" alt="banner"/>
 
   <!-- Texto animado -->
   <a href="https://git.io/typing-svg">
