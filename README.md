@@ -134,8 +134,8 @@ Soy un desarrollador en formación con bases sólidas en programación y una fue
 <div align="center">
 
   <!-- Tarjetas OpenGraph oficiales de GitHub (no dependen de servicios externos) -->
-  <a href="https://github.com/PatitaDeZorro/01-Bot_de_email_y_Telegram">
-    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/01-Bot_de_email_y_Telegram" width="49%" alt="Bot de email y Telegram"/>
+  <a href="https://github.com/PatitaDeZorro/Juego_TorresDeHanoi">
+    <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/Juego_TorresDeHanoi" width="49%" alt="Torres de Hanoi"/>
   </a>
   <a href="https://github.com/PatitaDeZorro/02-Reloj_checador_con_bot_de_notificacion">
     <img src="https://opengraph.githubassets.com/1/PatitaDeZorro/02-Reloj_checador_con_bot_de_notificacion" width="49%" alt="Reloj checador con bot de notificación"/>
